@@ -2,7 +2,5 @@ pytesseract
 langchain
 uuid
 streamlit
-random
-time
 pydantic
 unstructured
