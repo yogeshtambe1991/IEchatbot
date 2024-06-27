@@ -4,3 +4,5 @@ uuid
 streamlit
 random
 time
+pydantic
+unstructured
