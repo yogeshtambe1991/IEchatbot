@@ -1,0 +1,6 @@
+pytesseract
+langchain
+uuid
+streamlit
+random
+time
